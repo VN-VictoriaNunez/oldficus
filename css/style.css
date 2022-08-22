@@ -1,0 +1,14 @@
+/* .carousel-item{
+    height: 32rem;
+}  */
+.carousel-item img {
+    object-fit: cover;
+    overflow: hidden;
+    height: 60vh;
+}
+.carOne{
+    object-position: 50% 80%;
+}
+.carTwo{
+    object-position: 50% 60%;
+}
