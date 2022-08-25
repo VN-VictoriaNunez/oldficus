@@ -12,3 +12,25 @@
 .carTwo{
     object-position: 50% 60%;
 }
+
+@media (min-width:750px) {
+    .map {
+  width: 600px;}
+}
+
+.fundador {
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/1/16/Mai_patio.jpg);
+    background-size: cover;
+    background-blend-mode:luminosity;
+}
+
+.jardinero {
+    background-image:url(https://conexionmigrante.com/wp-content/uploads/2022/03/jardineros.jpg);
+    background-size: cover;
+    background-blend-mode:luminosity;
+}
+.historia {
+    background-image:url(https://vivelabiblia.com/wp-content/uploads/2019/10/Mi-publicaci%C3%B3n-2-1.png);
+    background-size: cover;
+    background-blend-mode:luminosity;
+}
